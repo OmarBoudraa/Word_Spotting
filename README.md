@@ -6,4 +6,4 @@ Run "Setup.exe" and make fun
 
 # Need help ?
 
-go to https://github.com/OmarBoudraa/Word_Spotting/edit/master/aide.pdf
+Go to https://github.com/OmarBoudraa/Word_Spotting/edit/master/aide.pdf
